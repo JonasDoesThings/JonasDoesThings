@@ -1,4 +1,6 @@
-## Hi there 👋
+## ✨😼🪄✨  
+You can support my FOSS work and buy me a tea: https://buymeacoffee.com/jonasdoesthings  
+You can reach me via my e-mail in my profile.
 
 <!--
 **JonasDoesThings/JonasDoesThings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
